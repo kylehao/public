@@ -1,0 +1,4 @@
+\uFEFFdocument.write("&nbsp;&nbsp;&nbsp;&nbsp;\u203B<font color=4B4221>\u672C\u7AD9\u662F\u5173\u4E8E\u53E4\u5178\u6587\u5B66<br>&nbsp;&nbsp;&nbsp;\u7684\u4E2A\u4EBA\u7F51\u7AD9,\u5982\u679C\u670D\u52A1\u4E0D<br>&nbsp;&nbsp;&nbsp;\u5230\u4F4D\uFF0C\u8BF7\u4F53\u8C05.</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;\u203B<font color=4B4221>\u672C\u7AD9\u7A0B\u5E8F\u662F\u7F51\u4E0A\u4E0B\u8F7D<br>&nbsp;&nbsp;&nbsp;\u7684\u514D\u8D39\u6E90\u7801.\u8FD8\u4E0D\u9519\u5427.</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;\u203B<font color=4B4221>\u8FD9\u5957\u6A21\u7248\u662F\u6211\u81EA\u5DF1\u4FEE<br>&nbsp;&nbsp;&nbsp;\u6539\u7684\uFF0C\u81EA\u6211\u611F\u89C9\u8FD8\u4E0D\u9519.</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;\u203B<font color=4B4221>\u611F\u8C22<a href=http://www.htsky.com>\u6D77\u68E0\u522B\u82D1</a>\u63D0\u4F9B<br>&nbsp;&nbsp;&nbsp;\u6280\u672F\u652F\u6301.</font>");
